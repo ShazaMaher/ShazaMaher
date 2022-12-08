@@ -3,6 +3,7 @@
 - 👀 I’m currently looking for an opportunity to work as Robotics Engineer, Data Scients, Embedded Software Engineer 
 - 🖥️ I’m currently learning Cloud Computing Azure and AWS
 - 🌱 I like walking and doing Yoga. 
-- 📫 How to reach me shaza.maher.911@hotmail.com
+- 📫 How to reach me: shaza.maher.911@hotmail.com
+
 
 
